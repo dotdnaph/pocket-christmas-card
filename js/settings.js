@@ -34,7 +34,7 @@ var textbox_baseline = "middle"; // Baseline alignment (top, middle, bottom)
 var button_enable = true; // Show button below greeting (true, false)
 var button_text = "Merry Christmas!"; // Text on button
 var button_text_hover = " What I Want for Christmas "; // Text on hovered button
-var button_url = "https://www.youtube.com/watch?v=aAkMkVFwAoo"; // URL path when click on button
+var button_url = "https://youtu.be/aAkMkVFwAoo?t=139"; // URL path when click on button
 var button_url_target = "_blank"; // Targeting URL (_blank, _self, _parent, _top)
 var button_font = "normal 23px miso-regular"; // Font face settings
 var button_space = 28; // Distance between greeting text and button
